@@ -1,4 +1,4 @@
-## Oi eu sou a Luiz Vitorino, criadora de conteúdo de programação e tecnologia!
+## Oi eu sou a Luiz Vitorino, Desenvolvedor web
 
 <div align="center">
   <a href="https://github.com/LuizVitorinoH">
